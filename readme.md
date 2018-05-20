@@ -1,4 +1,4 @@
-###Description
+### Description
 A social networking site called Jobster that focuses on graduating students looking for jobs.
 Detailed description see "pro1.pdf" and "pro2.pdf".
 Final project of CS6083: Principles of Database Systems
