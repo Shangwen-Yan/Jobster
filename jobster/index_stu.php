@@ -47,13 +47,6 @@ if($cid != "" ){
 $result_jobs0= mysqli_query($con,$sql_jobs0);
 $count_jobs0=mysqli_num_rows($result_jobs0);
 
-
-
-
-
-
-
-
 ?>
 
 <!DOCTYPE HTML>
